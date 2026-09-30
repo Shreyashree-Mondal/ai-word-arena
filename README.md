@@ -52,9 +52,7 @@ Saved in a local SQLite file, `data/aiword.db` (standard library only, no setup)
 to keep it elsewhere. If the database is unavailable the game still works and says progress is
 not saved.
 
-**Updating the game:** extracting a new zip over the old folder replaces `data/puzzles.json`
-(including puzzles the AI added). Before updating, copy `data/aiword.db` and `data/puzzles.json`
-somewhere safe, then copy them back afterwards.
+
 
 ## Putting it online
 
