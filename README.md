@@ -62,25 +62,7 @@ auto-saving of AI puzzles are all switched off (puzzles come from the reviewed b
 feedback are capped per visitor (`AIWORD_AI_SESSION_LIMIT`, default 15; the AI calls are counted when
 they are *made*, even if the reply is unusable). The login page shows an honest demo notice.
 
-**Streamlit Community Cloud (free):**
 
-1. Push this folder to a GitHub repository (never commit `.streamlit/secrets.toml`; it is git-ignored).
-2. On share.streamlit.io choose *Create app*, pick the repository and branch, and set the main file
-   to `app.py`.
-3. Under *Advanced settings*, choose Python 3.11 or 3.12 and paste the contents of
-   `.streamlit/secrets.toml.example` into *Secrets*. To turn on AI hints and feedback, also add
-   `GROQ_API_KEY = "your-key"` there. Secrets are copied into the environment automatically.
-4. Deploy. Later commits to the branch update the app.
-
-Things to know about a free hosted copy:
-
-- **Saved profiles are not guaranteed to last.** The platform can clear local files at any time, so
-  the database and any puzzles saved at runtime may vanish on a restart. Fine for a demo; for real
-  persistence you need a hosted database (not built yet).
-- A shared free AI key has a small daily allowance (for example 1,000 requests a day per Groq model).
-  The per-visitor cap protects it, and the game falls back to built-in hints when it runs out.
-- **Not yet done, worth doing before you promote it widely:** a review step so AI-written puzzles are
-  approved by a person before joining the bank, and a profanity filter for the dictionary.
 
 **Docker:** `docker build -t aiword .` then
 `docker run -p 8501:8501 -e AIWORD_PUBLIC_MODE=1 -v aiword-data:/app/data aiword`
