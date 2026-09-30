@@ -1,0 +1,4 @@
+# Only needed for AIWORD_PROVIDER=local (run a model on your own GPU)
+torch
+transformers
+accelerate

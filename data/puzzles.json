@@ -1,0 +1,1514 @@
+[
+  {
+    "theme": "Technology",
+    "difficulty": "Easy",
+    "word": "SCREEN",
+    "hint": "The flat display on a phone or laptop that shows what you are doing.",
+    "sentence": "You tap the _____ of your phone to open apps.",
+    "options": [
+      "SCREEN",
+      "BATTERY",
+      "CHARGER",
+      "SPEAKER"
+    ],
+    "explanation": "A screen is the display surface of a device."
+  },
+  {
+    "theme": "Technology",
+    "difficulty": "Easy",
+    "word": "SERVER",
+    "hint": "A powerful computer that delivers web pages and data to other computers.",
+    "sentence": "When you open a website, a _____ sends the page to your browser.",
+    "options": [
+      "SERVER",
+      "PRINTER",
+      "MONITOR",
+      "SCANNER"
+    ],
+    "explanation": "A server provides data or services to client devices over a network."
+  },
+  {
+    "theme": "Technology",
+    "difficulty": "Medium",
+    "word": "BINARY",
+    "hint": "A number system that uses only two digits, the language of computer hardware.",
+    "sentence": "Computers store all data as ones and zeros in _____ code.",
+    "options": [
+      "BINARY",
+      "DECIMAL",
+      "ROMAN",
+      "OCTAL"
+    ],
+    "explanation": "Binary is base 2, which matches the on/off states of digital circuits."
+  },
+  {
+    "theme": "Technology",
+    "difficulty": "Medium",
+    "word": "SOCKET",
+    "hint": "An endpoint that lets two programs exchange data over a network.",
+    "sentence": "The chat app opened a network _____ to talk to the remote machine.",
+    "options": [
+      "SOCKET",
+      "FOLDER",
+      "CURSOR",
+      "BUFFER"
+    ],
+    "explanation": "A socket is one end of a two-way communication link between programs."
+  },
+  {
+    "theme": "Technology",
+    "difficulty": "Hard",
+    "word": "KERNEL",
+    "hint": "The core part of an operating system that manages hardware and memory.",
+    "sentence": "Linux is built around a _____ that manages processes and hardware.",
+    "options": [
+      "KERNEL",
+      "SHELL",
+      "DRIVER",
+      "COMPILER"
+    ],
+    "explanation": "The kernel sits between applications and hardware and controls resources."
+  },
+  {
+    "theme": "Technology",
+    "difficulty": "Hard",
+    "word": "CIPHER",
+    "hint": "An algorithm for turning readable text into a secret code.",
+    "sentence": "A Caesar _____ shifts each letter by a fixed number of places.",
+    "options": [
+      "CIPHER",
+      "SCRIPT",
+      "COMPILER",
+      "PROXY"
+    ],
+    "explanation": "A cipher is a method for encrypting and decrypting information."
+  },
+  {
+    "theme": "Science",
+    "difficulty": "Easy",
+    "word": "PLANET",
+    "hint": "A large body that orbits a star, like Earth or Mars.",
+    "sentence": "Earth is the only _____ we know that supports life.",
+    "options": [
+      "PLANET",
+      "COMET",
+      "GALAXY",
+      "METEOR"
+    ],
+    "explanation": "A planet is a large body that orbits a star and has cleared its orbit."
+  },
+  {
+    "theme": "Science",
+    "difficulty": "Easy",
+    "word": "ENERGY",
+    "hint": "The ability to do work, which comes in forms like heat, light and motion.",
+    "sentence": "Plants turn sunlight into chemical _____ they can store.",
+    "options": [
+      "ENERGY",
+      "MATTER",
+      "GRAVITY",
+      "PRESSURE"
+    ],
+    "explanation": "Photosynthesis converts light energy into stored chemical energy."
+  },
+  {
+    "theme": "Science",
+    "difficulty": "Medium",
+    "word": "NEURON",
+    "hint": "A nerve cell that carries signals through the brain and body.",
+    "sentence": "Each _____ passes electrical signals to the next one across a synapse.",
+    "options": [
+      "NEURON",
+      "PLASMA",
+      "TISSUE",
+      "RETINA"
+    ],
+    "explanation": "Neurons are the cells that transmit nerve impulses."
+  },
+  {
+    "theme": "Science",
+    "difficulty": "Medium",
+    "word": "PROTON",
+    "hint": "A positively charged particle found in the nucleus of an atom.",
+    "sentence": "The number of _____ in an atom's nucleus decides which element it is.",
+    "options": [
+      "PROTON",
+      "ELECTRON",
+      "NEUTRON",
+      "PHOTON"
+    ],
+    "explanation": "An element's atomic number is its count of protons."
+  },
+  {
+    "theme": "Science",
+    "difficulty": "Hard",
+    "word": "ENZYME",
+    "hint": "A protein that speeds up chemical reactions in living things.",
+    "sentence": "Amylase is an _____ in saliva that begins breaking down starch.",
+    "options": [
+      "ENZYME",
+      "HORMONE",
+      "VITAMIN",
+      "ANTIBODY"
+    ],
+    "explanation": "Enzymes are biological catalysts that lower the energy needed for reactions."
+  },
+  {
+    "theme": "Science",
+    "difficulty": "Hard",
+    "word": "ALKALI",
+    "hint": "A base that dissolves in water, with a pH above seven.",
+    "sentence": "Sodium hydroxide is a strong _____ that turns litmus paper blue.",
+    "options": [
+      "ALKALI",
+      "ACID",
+      "SOLVENT",
+      "CATALYST"
+    ],
+    "explanation": "An alkali is a water-soluble base that neutralises acids."
+  },
+  {
+    "theme": "Healthcare",
+    "difficulty": "Easy",
+    "word": "DOCTOR",
+    "hint": "A trained professional who examines patients and prescribes treatment.",
+    "sentence": "You visit a _____ when you need a medical check-up.",
+    "options": [
+      "DOCTOR",
+      "TEACHER",
+      "PILOT",
+      "FARMER"
+    ],
+    "explanation": "A doctor diagnoses and treats illness."
+  },
+  {
+    "theme": "Healthcare",
+    "difficulty": "Easy",
+    "word": "HEALTH",
+    "hint": "The state of being free from illness and feeling well in body and mind.",
+    "sentence": "Regular exercise and good sleep improve your overall _____.",
+    "options": [
+      "HEALTH",
+      "WEALTH",
+      "FASHION",
+      "RECORD"
+    ],
+    "explanation": "Health is physical, mental and social well-being."
+  },
+  {
+    "theme": "Healthcare",
+    "difficulty": "Medium",
+    "word": "TISSUE",
+    "hint": "A group of similar cells working together, like muscle or skin.",
+    "sentence": "Muscle is a type of _____ made of cells that can contract.",
+    "options": [
+      "TISSUE",
+      "ENZYME",
+      "PLASMA",
+      "ORGANISM"
+    ],
+    "explanation": "Tissues are groups of similar cells that perform a shared function."
+  },
+  {
+    "theme": "Healthcare",
+    "difficulty": "Medium",
+    "word": "ARTERY",
+    "hint": "A blood vessel that carries blood away from the heart.",
+    "sentence": "Blood leaves the heart through a large _____ called the aorta.",
+    "options": [
+      "ARTERY",
+      "VEIN",
+      "NERVE",
+      "TENDON"
+    ],
+    "explanation": "Arteries carry oxygen-rich blood from the heart to the body."
+  },
+  {
+    "theme": "Healthcare",
+    "difficulty": "Hard",
+    "word": "SEPSIS",
+    "hint": "A life-threatening reaction to infection that can damage organs.",
+    "sentence": "Doctors act fast on _____ because the body's response to infection can cause organ failure.",
+    "options": [
+      "SEPSIS",
+      "ASTHMA",
+      "ECZEMA",
+      "ARTHRITIS"
+    ],
+    "explanation": "Sepsis is a medical emergency triggered by the body's extreme response to infection."
+  },
+  {
+    "theme": "Healthcare",
+    "difficulty": "Hard",
+    "word": "ANEMIA",
+    "hint": "A condition where the blood has too few healthy red cells to carry oxygen.",
+    "sentence": "Low iron can lead to _____, leaving a person tired and pale.",
+    "options": [
+      "ANEMIA",
+      "DIABETES",
+      "MIGRAINE",
+      "ASTHMA"
+    ],
+    "explanation": "Anemia reduces the oxygen-carrying capacity of the blood."
+  },
+  {
+    "theme": "Finance",
+    "difficulty": "Easy",
+    "word": "INCOME",
+    "hint": "The money a person or business earns over a period of time.",
+    "sentence": "Her monthly _____ comes from her salary and freelance work.",
+    "options": [
+      "INCOME",
+      "EXPENSE",
+      "DEBT",
+      "TAXES"
+    ],
+    "explanation": "Income is money received from work, investments or other sources."
+  },
+  {
+    "theme": "Finance",
+    "difficulty": "Easy",
+    "word": "BUDGET",
+    "hint": "A plan for how you will spend and save your money.",
+    "sentence": "Writing a monthly _____ helps you track where your money goes.",
+    "options": [
+      "BUDGET",
+      "LOAN",
+      "RECEIPT",
+      "INVOICE"
+    ],
+    "explanation": "A budget compares planned income with planned spending."
+  },
+  {
+    "theme": "Finance",
+    "difficulty": "Medium",
+    "word": "CREDIT",
+    "hint": "Borrowed money you promise to repay, or a record of how reliably you repay.",
+    "sentence": "A good _____ score helps you get a lower interest rate on a loan.",
+    "options": [
+      "CREDIT",
+      "SAVINGS",
+      "SALARY",
+      "ACCOUNT"
+    ],
+    "explanation": "Credit reflects your ability to borrow and repay money."
+  },
+  {
+    "theme": "Finance",
+    "difficulty": "Medium",
+    "word": "EQUITY",
+    "hint": "Ownership value in a company or property after debts are subtracted.",
+    "sentence": "Owning shares gives you a stake, called _____, in the company.",
+    "options": [
+      "EQUITY",
+      "LIABILITY",
+      "PENSION",
+      "BUDGET"
+    ],
+    "explanation": "Equity is the ownership interest left after liabilities are deducted."
+  },
+  {
+    "theme": "Finance",
+    "difficulty": "Hard",
+    "word": "TARIFF",
+    "hint": "A tax charged by a government on goods imported from other countries.",
+    "sentence": "The government raised the _____ on imported steel to protect local producers.",
+    "options": [
+      "TARIFF",
+      "SUBSIDY",
+      "DIVIDEND",
+      "PENSION"
+    ],
+    "explanation": "A tariff makes imports more expensive to favour domestic goods."
+  },
+  {
+    "theme": "Finance",
+    "difficulty": "Hard",
+    "word": "ESCROW",
+    "hint": "A neutral third party holds funds until a deal's conditions are met.",
+    "sentence": "The buyer's deposit stayed in _____ until the home inspection was finished.",
+    "options": [
+      "ESCROW",
+      "CHECKING",
+      "PAYROLL",
+      "LEDGER"
+    ],
+    "explanation": "Escrow protects both sides by holding money until the agreed conditions are met."
+  },
+  {
+    "theme": "Environment",
+    "difficulty": "Easy",
+    "word": "FOREST",
+    "hint": "A large area covered with trees that shelters many animals.",
+    "sentence": "Deer and owls make their homes in the _____.",
+    "options": [
+      "FOREST",
+      "DESERT",
+      "GLACIER",
+      "HARBOR"
+    ],
+    "explanation": "A forest is a large ecosystem dominated by trees."
+  },
+  {
+    "theme": "Environment",
+    "difficulty": "Easy",
+    "word": "NATURE",
+    "hint": "Plants, animals and landscapes that exist without human creation.",
+    "sentence": "Hiking is a great way to enjoy _____ and fresh air.",
+    "options": [
+      "NATURE",
+      "FACTORY",
+      "TRAFFIC",
+      "SCREENS"
+    ],
+    "explanation": "Nature is the physical world of living things and landscapes."
+  },
+  {
+    "theme": "Environment",
+    "difficulty": "Medium",
+    "word": "CARBON",
+    "hint": "The element in fossil fuels that forms a greenhouse gas when burned.",
+    "sentence": "Burning coal releases _____ dioxide into the atmosphere.",
+    "options": [
+      "CARBON",
+      "HELIUM",
+      "ARGON",
+      "RADON"
+    ],
+    "explanation": "Burning carbon-based fuels produces carbon dioxide, a major greenhouse gas."
+  },
+  {
+    "theme": "Environment",
+    "difficulty": "Medium",
+    "word": "TUNDRA",
+    "hint": "A cold, treeless biome with frozen ground beneath the surface.",
+    "sentence": "Permafrost lies beneath the frozen _____ of the Arctic.",
+    "options": [
+      "TUNDRA",
+      "SAVANNA",
+      "RAINFOREST",
+      "WETLAND"
+    ],
+    "explanation": "Tundra is a treeless region with a permanently frozen subsoil."
+  },
+  {
+    "theme": "Environment",
+    "difficulty": "Hard",
+    "word": "RUNOFF",
+    "hint": "Rainwater that flows over land instead of soaking in, carrying pollutants.",
+    "sentence": "Fertilizer in farm _____ can pollute rivers and cause algae blooms.",
+    "options": [
+      "RUNOFF",
+      "COMPOST",
+      "MULCH",
+      "SEEDS"
+    ],
+    "explanation": "Runoff carries chemicals and soil into waterways."
+  },
+  {
+    "theme": "Environment",
+    "difficulty": "Hard",
+    "word": "LICHEN",
+    "hint": "A partnership between fungus and algae that grows on rocks and trees.",
+    "sentence": "Scientists use _____ as an air-quality indicator because it is sensitive to pollution.",
+    "options": [
+      "LICHEN",
+      "BAMBOO",
+      "CACTUS",
+      "CLOVER"
+    ],
+    "explanation": "Lichens absorb pollutants directly, so their health reflects air quality."
+  },
+  {
+    "theme": "Space",
+    "difficulty": "Easy",
+    "word": "ROCKET",
+    "hint": "A vehicle that blasts off using powerful engines to reach space.",
+    "sentence": "Astronauts ride a _____ to leave Earth's atmosphere.",
+    "options": [
+      "ROCKET",
+      "TRAIN",
+      "SUBMARINE",
+      "BICYCLE"
+    ],
+    "explanation": "A rocket produces thrust that lifts spacecraft beyond the atmosphere."
+  },
+  {
+    "theme": "Space",
+    "difficulty": "Easy",
+    "word": "GALAXY",
+    "hint": "A huge system of billions of stars, like the Milky Way.",
+    "sentence": "Our solar system sits inside the Milky Way _____.",
+    "options": [
+      "GALAXY",
+      "PLANET",
+      "COMET",
+      "ORBIT"
+    ],
+    "explanation": "A galaxy is a vast collection of stars, gas and dust held together by gravity."
+  },
+  {
+    "theme": "Space",
+    "difficulty": "Medium",
+    "word": "METEOR",
+    "hint": "The streak of light seen when a space rock burns up in the atmosphere.",
+    "sentence": "A shooting star is really a _____ burning up as it enters the atmosphere.",
+    "options": [
+      "METEOR",
+      "PLANET",
+      "NEBULA",
+      "SATELLITE"
+    ],
+    "explanation": "A meteor is the glowing trail of a rock heated by air friction."
+  },
+  {
+    "theme": "Space",
+    "difficulty": "Medium",
+    "word": "NEBULA",
+    "hint": "A giant cloud of gas and dust where stars can be born.",
+    "sentence": "New stars form inside a glowing _____ of gas and dust.",
+    "options": [
+      "NEBULA",
+      "COMET",
+      "PULSAR",
+      "ASTEROID"
+    ],
+    "explanation": "Nebulae are the birthplaces of stars."
+  },
+  {
+    "theme": "Space",
+    "difficulty": "Hard",
+    "word": "ZENITH",
+    "hint": "The point in the sky directly above an observer.",
+    "sentence": "At noon on the equator during an equinox, the sun sits at the _____, straight overhead.",
+    "options": [
+      "ZENITH",
+      "HORIZON",
+      "APOGEE",
+      "COMET"
+    ],
+    "explanation": "The zenith is the highest point in the sky, directly overhead."
+  },
+  {
+    "theme": "Space",
+    "difficulty": "Hard",
+    "word": "APOGEE",
+    "hint": "The point in an orbit farthest from Earth.",
+    "sentence": "A satellite travels slowest at its _____, the far point of its orbit.",
+    "options": [
+      "APOGEE",
+      "PERIGEE",
+      "HORIZON",
+      "EQUINOX"
+    ],
+    "explanation": "Apogee is the farthest point of an orbit; perigee is the closest."
+  },
+  {
+    "theme": "Engineering",
+    "difficulty": "Easy",
+    "word": "BRIDGE",
+    "hint": "A structure built to carry a road or railway across a river or valley.",
+    "sentence": "Engineers designed a long _____ to cross the river.",
+    "options": [
+      "BRIDGE",
+      "TOWER",
+      "FENCE",
+      "CHIMNEY"
+    ],
+    "explanation": "A bridge spans a gap so traffic can pass over an obstacle."
+  },
+  {
+    "theme": "Engineering",
+    "difficulty": "Easy",
+    "word": "ENGINE",
+    "hint": "A machine that converts fuel into motion to power a vehicle.",
+    "sentence": "A car's _____ burns fuel to make it move.",
+    "options": [
+      "ENGINE",
+      "WHEEL",
+      "BRAKE",
+      "SEATBELT"
+    ],
+    "explanation": "An engine turns fuel energy into mechanical motion."
+  },
+  {
+    "theme": "Engineering",
+    "difficulty": "Medium",
+    "word": "TORQUE",
+    "hint": "A twisting force that makes something rotate.",
+    "sentence": "A wrench applies _____ to tighten a bolt.",
+    "options": [
+      "TORQUE",
+      "VOLTAGE",
+      "DENSITY",
+      "FRICTION"
+    ],
+    "explanation": "Torque is force applied at a distance from a rotation axis."
+  },
+  {
+    "theme": "Engineering",
+    "difficulty": "Medium",
+    "word": "PISTON",
+    "hint": "A part that moves up and down inside an engine cylinder.",
+    "sentence": "Burning fuel pushes the _____ down inside the cylinder.",
+    "options": [
+      "PISTON",
+      "GEARBOX",
+      "RADIATOR",
+      "CLUTCH"
+    ],
+    "explanation": "Pistons convert pressure from combustion into linear motion."
+  },
+  {
+    "theme": "Engineering",
+    "difficulty": "Hard",
+    "word": "GIRDER",
+    "hint": "A large horizontal beam that supports the floors of a building or bridge.",
+    "sentence": "A steel _____ carries the load of the floors across the frame of a skyscraper.",
+    "options": [
+      "GIRDER",
+      "RIVET",
+      "GASKET",
+      "WASHER"
+    ],
+    "explanation": "A girder is a main horizontal support beam in a structure."
+  },
+  {
+    "theme": "Engineering",
+    "difficulty": "Hard",
+    "word": "CAMBER",
+    "hint": "A slight upward curve in the middle of a beam or road surface.",
+    "sentence": "Road builders add a slight _____ so rainwater drains off to the sides.",
+    "options": [
+      "CAMBER",
+      "MEDIAN",
+      "VERGE",
+      "BOLLARD"
+    ],
+    "explanation": "Camber is a gentle convex curve that helps shed water or counter loads."
+  },
+  {
+    "theme": "Education",
+    "difficulty": "Easy",
+    "word": "SCHOOL",
+    "hint": "A place where children go to learn from teachers.",
+    "sentence": "Kids carry their books to _____ every morning.",
+    "options": [
+      "SCHOOL",
+      "MARKET",
+      "STADIUM",
+      "AIRPORT"
+    ],
+    "explanation": "A school is an institution for teaching students."
+  },
+  {
+    "theme": "Education",
+    "difficulty": "Easy",
+    "word": "LESSON",
+    "hint": "A period of teaching, or a piece of knowledge you learn.",
+    "sentence": "The teacher explained a new math _____ to the class.",
+    "options": [
+      "LESSON",
+      "RECESS",
+      "UNIFORM",
+      "LOCKER"
+    ],
+    "explanation": "A lesson is a unit of teaching on a topic."
+  },
+  {
+    "theme": "Education",
+    "difficulty": "Medium",
+    "word": "DEGREE",
+    "hint": "An academic qualification awarded after completing a university course.",
+    "sentence": "She earned a _____ in biology after four years of study.",
+    "options": [
+      "DEGREE",
+      "LICENSE",
+      "PERMIT",
+      "BADGE"
+    ],
+    "explanation": "A degree is a qualification granted by a college or university."
+  },
+  {
+    "theme": "Education",
+    "difficulty": "Medium",
+    "word": "CAMPUS",
+    "hint": "The grounds and buildings of a university or college.",
+    "sentence": "Students walk across the _____ between lectures and the library.",
+    "options": [
+      "CAMPUS",
+      "SUBURB",
+      "HARBOR",
+      "FRONTIER"
+    ],
+    "explanation": "A campus is the land and buildings of a university."
+  },
+  {
+    "theme": "Education",
+    "difficulty": "Hard",
+    "word": "THESIS",
+    "hint": "A long research paper written to earn a postgraduate degree.",
+    "sentence": "He spent a year writing his master's _____ on renewable energy.",
+    "options": [
+      "THESIS",
+      "SYLLABUS",
+      "QUIZ",
+      "TEXTBOOK"
+    ],
+    "explanation": "A thesis presents original research to earn an advanced degree."
+  },
+  {
+    "theme": "Education",
+    "difficulty": "Hard",
+    "word": "RUBRIC",
+    "hint": "A scoring guide that lists the criteria used to grade an assignment.",
+    "sentence": "Each row of the _____ lists a criterion and the points it is worth.",
+    "options": [
+      "RUBRIC",
+      "TRANSCRIPT",
+      "TIMETABLE",
+      "DIPLOMA"
+    ],
+    "explanation": "A rubric makes grading criteria and point values explicit."
+  },
+  {
+    "theme": "History",
+    "difficulty": "Easy",
+    "word": "EMPIRE",
+    "hint": "A large group of lands ruled by one emperor or government.",
+    "sentence": "The Roman _____ once stretched across much of Europe.",
+    "options": [
+      "EMPIRE",
+      "ISLAND",
+      "VILLAGE",
+      "MEADOW"
+    ],
+    "explanation": "An empire is a large territory under a single ruling authority."
+  },
+  {
+    "theme": "History",
+    "difficulty": "Easy",
+    "word": "KNIGHT",
+    "hint": "A medieval soldier who served a lord and fought on horseback in armor.",
+    "sentence": "In medieval times, a _____ wore armor and rode a horse into battle.",
+    "options": [
+      "KNIGHT",
+      "FARMER",
+      "MONK",
+      "JESTER"
+    ],
+    "explanation": "Knights were mounted warriors who served a lord."
+  },
+  {
+    "theme": "History",
+    "difficulty": "Medium",
+    "word": "TREATY",
+    "hint": "A formal written agreement between countries.",
+    "sentence": "The two nations signed a peace _____ to end the war.",
+    "options": [
+      "TREATY",
+      "SPEECH",
+      "CENSUS",
+      "VERDICT"
+    ],
+    "explanation": "A treaty is a formal agreement between states."
+  },
+  {
+    "theme": "History",
+    "difficulty": "Medium",
+    "word": "REVOLT",
+    "hint": "An uprising by people against those who rule them.",
+    "sentence": "Angry citizens started a _____ against the king's high taxes.",
+    "options": [
+      "REVOLT",
+      "FESTIVAL",
+      "VOYAGE",
+      "PARADE"
+    ],
+    "explanation": "A revolt is a rebellion against authority."
+  },
+  {
+    "theme": "History",
+    "difficulty": "Hard",
+    "word": "FEUDAL",
+    "hint": "Describes the medieval system where lords gave land in return for loyalty and service.",
+    "sentence": "Under the _____ system, peasants worked the land for a local lord.",
+    "options": [
+      "FEUDAL",
+      "CAPITALIST",
+      "DEMOCRATIC",
+      "SOCIALIST"
+    ],
+    "explanation": "Feudalism organised medieval society around land, loyalty and service."
+  },
+  {
+    "theme": "History",
+    "difficulty": "Hard",
+    "word": "REGENT",
+    "hint": "Someone who rules on behalf of a monarch who is too young or unable.",
+    "sentence": "Because the prince was only a child, a _____ governed the kingdom for him.",
+    "options": [
+      "REGENT",
+      "ADMIRAL",
+      "BISHOP",
+      "SCRIBE"
+    ],
+    "explanation": "A regent governs in place of a monarch who cannot rule."
+  },
+  {
+    "theme": "Arts & Culture",
+    "difficulty": "Easy",
+    "word": "MUSEUM",
+    "hint": "A building where historic or artistic objects are displayed for the public.",
+    "sentence": "We saw ancient statues and paintings at the _____ on our school trip.",
+    "options": [
+      "MUSEUM",
+      "BAKERY",
+      "GARAGE",
+      "STATION"
+    ],
+    "explanation": "A museum collects and displays objects of cultural value."
+  },
+  {
+    "theme": "Arts & Culture",
+    "difficulty": "Easy",
+    "word": "SINGER",
+    "hint": "A person who performs songs with their voice.",
+    "sentence": "The _____ stepped up to the microphone and began the song.",
+    "options": [
+      "SINGER",
+      "PAINTER",
+      "SCULPTOR",
+      "DANCER"
+    ],
+    "explanation": "A singer performs music using their voice."
+  },
+  {
+    "theme": "Arts & Culture",
+    "difficulty": "Medium",
+    "word": "CANVAS",
+    "hint": "A stretched cloth surface that artists paint on.",
+    "sentence": "The artist stretched a blank _____ over a wooden frame before painting.",
+    "options": [
+      "CANVAS",
+      "PALETTE",
+      "EASEL",
+      "BRUSH"
+    ],
+    "explanation": "A canvas is the fabric surface used for oil and acrylic painting."
+  },
+  {
+    "theme": "Arts & Culture",
+    "difficulty": "Medium",
+    "word": "SONNET",
+    "hint": "A 14-line poem, famously written by Shakespeare.",
+    "sentence": "Shakespeare wrote 154 of these 14-line poems, each called a _____.",
+    "options": [
+      "SONNET",
+      "LIMERICK",
+      "BALLAD",
+      "EPIC"
+    ],
+    "explanation": "A sonnet is a fourteen-line poem with a set rhyme scheme."
+  },
+  {
+    "theme": "Arts & Culture",
+    "difficulty": "Hard",
+    "word": "FRESCO",
+    "hint": "A painting made on fresh wet plaster so the colors become part of the wall.",
+    "sentence": "Michelangelo painted a famous _____ on the ceiling of the Sistine Chapel.",
+    "options": [
+      "FRESCO",
+      "MOSAIC",
+      "TAPESTRY",
+      "ETCHING"
+    ],
+    "explanation": "In a fresco, pigment is applied to wet plaster and dries into the wall."
+  },
+  {
+    "theme": "Arts & Culture",
+    "difficulty": "Hard",
+    "word": "MOSAIC",
+    "hint": "An artwork made by fitting together many small colored pieces of stone or glass.",
+    "sentence": "Roman floors were often decorated with a _____ of tiny stone tiles.",
+    "options": [
+      "MOSAIC",
+      "FRESCO",
+      "TAPESTRY",
+      "ENGRAVING"
+    ],
+    "explanation": "A mosaic assembles small tiles or fragments into a picture or pattern."
+  },
+  {
+    "theme": "Cricket",
+    "difficulty": "Easy",
+    "word": "WICKET",
+    "hint": "The set of three stumps and two bails that a bowler tries to hit.",
+    "sentence": "The bowler cheered when the ball knocked the bails off the _____.",
+    "options": [
+      "WICKET",
+      "BOUNDARY",
+      "PAVILION",
+      "SCOREBOARD"
+    ],
+    "explanation": "The wicket is the wooden target the bowler aims at and the batter defends."
+  },
+  {
+    "theme": "Cricket",
+    "difficulty": "Easy",
+    "word": "BOWLER",
+    "hint": "The player who delivers the ball to the batter.",
+    "sentence": "The fast _____ ran in and delivered the ball at a hundred and forty kilometres an hour.",
+    "options": [
+      "BOWLER",
+      "FIELDER",
+      "UMPIRE",
+      "KEEPER"
+    ],
+    "explanation": "A bowler bowls the ball towards the batter's wicket."
+  },
+  {
+    "theme": "Cricket",
+    "difficulty": "Medium",
+    "word": "UMPIRE",
+    "hint": "The official who makes decisions such as out or not out.",
+    "sentence": "The _____ raised a finger to signal that the batter was out.",
+    "options": [
+      "UMPIRE",
+      "COMMENTATOR",
+      "SELECTOR",
+      "SPECTATOR"
+    ],
+    "explanation": "Umpires enforce the laws of cricket and give decisions on the field."
+  },
+  {
+    "theme": "Cricket",
+    "difficulty": "Medium",
+    "word": "STANCE",
+    "hint": "The way a batter positions their feet and body before the ball is bowled.",
+    "sentence": "The batter adjusted his _____ and waited for the bowler to run in.",
+    "options": [
+      "STANCE",
+      "HELMET",
+      "SCORER",
+      "OUTFIELD"
+    ],
+    "explanation": "A good stance keeps a batter balanced and ready to play a shot."
+  },
+  {
+    "theme": "Cricket",
+    "difficulty": "Hard",
+    "word": "CREASE",
+    "hint": "A painted line on the pitch that marks where the batter must stand.",
+    "sentence": "The batter stretched his bat over the _____ just before the throw hit the stumps.",
+    "options": [
+      "CREASE",
+      "BOUNDARY",
+      "PAVILION",
+      "SCOREBOARD"
+    ],
+    "explanation": "The crease marks the batter's safe ground; a batter behind it cannot be run out."
+  },
+  {
+    "theme": "Cricket",
+    "difficulty": "Hard",
+    "word": "GOOGLY",
+    "hint": "A deceptive delivery from a leg-spinner that turns the opposite way.",
+    "sentence": "The leg-spinner disguised his _____, and the batter played for the wrong turn.",
+    "options": [
+      "GOOGLY",
+      "BOUNCER",
+      "OVERTHROW",
+      "BOUNDARY"
+    ],
+    "explanation": "A googly looks like a leg-break but turns into the right-handed batter."
+  },
+  {
+    "theme": "Entertainment",
+    "difficulty": "Easy",
+    "word": "CINEMA",
+    "hint": "A theatre where people go to watch films on a big screen.",
+    "sentence": "We bought popcorn and tickets at the _____ on Saturday night.",
+    "options": [
+      "CINEMA",
+      "LIBRARY",
+      "BAKERY",
+      "STADIUM"
+    ],
+    "explanation": "A cinema shows films to an audience."
+  },
+  {
+    "theme": "Entertainment",
+    "difficulty": "Easy",
+    "word": "ACTION",
+    "hint": "A film genre full of chases, fights and explosions.",
+    "sentence": "He loves any _____ movie with car chases and big explosions.",
+    "options": [
+      "ACTION",
+      "ROMANCE",
+      "DOCUMENTARY",
+      "MUSICAL"
+    ],
+    "explanation": "Action films focus on physical stunts and fast-paced sequences."
+  },
+  {
+    "theme": "Entertainment",
+    "difficulty": "Medium",
+    "word": "SCRIPT",
+    "hint": "The written text of a film or play, including dialogue and directions.",
+    "sentence": "The actors rehearsed their lines from the _____ before filming began.",
+    "options": [
+      "SCRIPT",
+      "TRAILER",
+      "POSTER",
+      "TICKET"
+    ],
+    "explanation": "A script contains the dialogue and stage directions for a production."
+  },
+  {
+    "theme": "Entertainment",
+    "difficulty": "Medium",
+    "word": "STUDIO",
+    "hint": "A company that makes films, or the building where they are shot.",
+    "sentence": "The film was shot entirely inside a large _____ rather than on location.",
+    "options": [
+      "STUDIO",
+      "MUSEUM",
+      "GALLERY",
+      "AIRPORT"
+    ],
+    "explanation": "A studio is a facility or company where films and shows are produced."
+  },
+  {
+    "theme": "Entertainment",
+    "difficulty": "Hard",
+    "word": "SEQUEL",
+    "hint": "A film that continues the story of an earlier one.",
+    "sentence": "Because it continues the story of the original film, the second movie is called a _____.",
+    "options": [
+      "SEQUEL",
+      "REMAKE",
+      "TRAILER",
+      "PREMIERE"
+    ],
+    "explanation": "A sequel follows on from the events of an earlier work."
+  },
+  {
+    "theme": "Entertainment",
+    "difficulty": "Hard",
+    "word": "FINALE",
+    "hint": "The last episode of a series, or the closing part of a show.",
+    "sentence": "Millions of fans tuned in to watch the series _____ and find out who won.",
+    "options": [
+      "FINALE",
+      "PREMIERE",
+      "TRAILER",
+      "CREDITS"
+    ],
+    "explanation": "A finale is the concluding episode or section of a performance or series."
+  },
+  {
+    "theme": "Sports",
+    "difficulty": "Easy",
+    "word": "SOCCER",
+    "hint": "A team game where players kick a round ball into a goal.",
+    "sentence": "Players may not touch the ball with their hands in _____ except the goalkeeper.",
+    "options": [
+      "SOCCER",
+      "TENNIS",
+      "CRICKET",
+      "BASEBALL"
+    ],
+    "explanation": "Soccer is played by two teams who try to score by kicking the ball into the goal."
+  },
+  {
+    "theme": "Sports",
+    "difficulty": "Easy",
+    "word": "TENNIS",
+    "hint": "A racket sport played over a net on a court.",
+    "sentence": "Players hit a yellow ball over the net with a racket in a game of _____.",
+    "options": [
+      "TENNIS",
+      "SOCCER",
+      "ROWING",
+      "BOXING"
+    ],
+    "explanation": "Tennis is played with rackets and a ball on a divided court."
+  },
+  {
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "word": "SPRINT",
+    "hint": "A very fast run over a short distance.",
+    "sentence": "The athlete won the hundred metre _____ in under ten seconds.",
+    "options": [
+      "SPRINT",
+      "MARATHON",
+      "JAVELIN",
+      "DISCUS"
+    ],
+    "explanation": "A sprint is a short race run at top speed."
+  },
+  {
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "word": "HURDLE",
+    "hint": "A barrier that runners jump over in a race.",
+    "sentence": "The runner clipped the last _____ and stumbled before the finish line.",
+    "options": [
+      "HURDLE",
+      "TROPHY",
+      "WHISTLE",
+      "SCOREBOARD"
+    ],
+    "explanation": "Hurdles are obstacles that athletes leap over during a race."
+  },
+  {
+    "theme": "Sports",
+    "difficulty": "Hard",
+    "word": "MEDLEY",
+    "hint": "A swimming event that combines all four strokes.",
+    "sentence": "In the individual _____, swimmers race butterfly, backstroke, breaststroke and freestyle.",
+    "options": [
+      "MEDLEY",
+      "MARATHON",
+      "DECATHLON",
+      "STEEPLECHASE"
+    ],
+    "explanation": "A medley requires a swimmer to use each of the four competitive strokes."
+  },
+  {
+    "theme": "Sports",
+    "difficulty": "Hard",
+    "word": "SLALOM",
+    "hint": "A skiing race where competitors weave between poles.",
+    "sentence": "The skier weaved between the gates in the giant _____ event.",
+    "options": [
+      "SLALOM",
+      "MARATHON",
+      "STEEPLECHASE",
+      "DECATHLON"
+    ],
+    "explanation": "Slalom is an alpine skiing race through a zigzag course of gates."
+  },
+  {
+    "theme": "Food & Cooking",
+    "difficulty": "Easy",
+    "word": "BUTTER",
+    "hint": "A soft yellow spread made from churned cream.",
+    "sentence": "She spread _____ on warm toast.",
+    "options": [
+      "BUTTER",
+      "VINEGAR",
+      "PEPPER",
+      "CABBAGE"
+    ],
+    "explanation": "Butter is a dairy product made by churning cream."
+  },
+  {
+    "theme": "Food & Cooking",
+    "difficulty": "Easy",
+    "word": "CHEESE",
+    "hint": "A food made from pressed milk curds, like cheddar or brie.",
+    "sentence": "The pizza was topped with melted _____ and tomato sauce.",
+    "options": [
+      "CHEESE",
+      "CUSTARD",
+      "HONEY",
+      "PEANUT"
+    ],
+    "explanation": "Cheese is made by curdling milk and pressing the curds."
+  },
+  {
+    "theme": "Food & Cooking",
+    "difficulty": "Medium",
+    "word": "GARLIC",
+    "hint": "A strong-smelling bulb whose cloves are used to flavour food.",
+    "sentence": "The chef crushed a clove of _____ into the hot oil.",
+    "options": [
+      "GARLIC",
+      "GINGER",
+      "ONION",
+      "PEPPER"
+    ],
+    "explanation": "Garlic is a pungent bulb made up of individual cloves."
+  },
+  {
+    "theme": "Food & Cooking",
+    "difficulty": "Medium",
+    "word": "SIMMER",
+    "hint": "To cook gently just below boiling point.",
+    "sentence": "Let the soup _____ on low heat for twenty minutes.",
+    "options": [
+      "SIMMER",
+      "FREEZE",
+      "CHILL",
+      "WHISK"
+    ],
+    "explanation": "To simmer is to cook food in liquid just below boiling."
+  },
+  {
+    "theme": "Food & Cooking",
+    "difficulty": "Hard",
+    "word": "BLANCH",
+    "hint": "To boil food briefly, then plunge it into cold water.",
+    "sentence": "To keep their colour, _____ the green beans in boiling water for two minutes, then cool them in ice water.",
+    "options": [
+      "BLANCH",
+      "ROAST",
+      "GRILL",
+      "TOAST"
+    ],
+    "explanation": "Blanching briefly cooks vegetables and helps keep their colour."
+  },
+  {
+    "theme": "Food & Cooking",
+    "difficulty": "Hard",
+    "word": "FONDUE",
+    "hint": "A Swiss dish of melted cheese eaten by dipping bread into it.",
+    "sentence": "Guests dipped cubes of bread into the bubbling pot of _____.",
+    "options": [
+      "FONDUE",
+      "SALAD",
+      "BISCUIT",
+      "PANCAKE"
+    ],
+    "explanation": "Fondue is a communal dish of melted cheese or chocolate for dipping."
+  },
+  {
+    "theme": "Music",
+    "difficulty": "Easy",
+    "word": "GUITAR",
+    "hint": "A string instrument with a long neck, played by strumming.",
+    "sentence": "He strummed a chord on his acoustic _____.",
+    "options": [
+      "GUITAR",
+      "TRUMPET",
+      "FLUTE",
+      "DRUM"
+    ],
+    "explanation": "A guitar is a stringed instrument played by strumming or plucking."
+  },
+  {
+    "theme": "Music",
+    "difficulty": "Easy",
+    "word": "VIOLIN",
+    "hint": "A small wooden string instrument played with a bow.",
+    "sentence": "She tucked the _____ under her chin and drew the bow across the strings.",
+    "options": [
+      "VIOLIN",
+      "TRUMPET",
+      "PIANO",
+      "CLARINET"
+    ],
+    "explanation": "A violin is held under the chin and played with a bow."
+  },
+  {
+    "theme": "Music",
+    "difficulty": "Medium",
+    "word": "MELODY",
+    "hint": "A sequence of notes that forms the tune of a song.",
+    "sentence": "The singer hummed the _____ while the band worked out the words.",
+    "options": [
+      "MELODY",
+      "VOLUME",
+      "ENCORE",
+      "TICKET"
+    ],
+    "explanation": "A melody is the main tune of a piece of music."
+  },
+  {
+    "theme": "Music",
+    "difficulty": "Medium",
+    "word": "CHORUS",
+    "hint": "The repeated section of a song that everyone sings along to.",
+    "sentence": "The crowd sang along loudly every time the _____ came back.",
+    "options": [
+      "CHORUS",
+      "INTRO",
+      "ENCORE",
+      "SOLO"
+    ],
+    "explanation": "The chorus is the part of a song that repeats, usually with the same words."
+  },
+  {
+    "theme": "Music",
+    "difficulty": "Hard",
+    "word": "OCTAVE",
+    "hint": "The interval of eight notes between one pitch and the next of the same name.",
+    "sentence": "The soprano's voice jumped up a full _____ on the final note.",
+    "options": [
+      "OCTAVE",
+      "TEMPO",
+      "CADENCE",
+      "HARMONY"
+    ],
+    "explanation": "An octave spans eight notes and doubles the frequency of the pitch."
+  },
+  {
+    "theme": "Music",
+    "difficulty": "Hard",
+    "word": "SONATA",
+    "hint": "A classical piece for one or two instruments, usually in several movements.",
+    "sentence": "The pianist performed a Beethoven _____ in three movements.",
+    "options": [
+      "SONATA",
+      "OPERA",
+      "MUSICAL",
+      "LULLABY"
+    ],
+    "explanation": "A sonata is a multi-movement work for a solo instrument or a small group."
+  },
+  {
+    "theme": "Geography",
+    "difficulty": "Easy",
+    "word": "ISLAND",
+    "hint": "A piece of land completely surrounded by water.",
+    "sentence": "You need a boat or a plane to reach a small _____ in the middle of the ocean.",
+    "options": [
+      "ISLAND",
+      "VALLEY",
+      "DESERT",
+      "MOUNTAIN"
+    ],
+    "explanation": "An island is land surrounded by water on all sides."
+  },
+  {
+    "theme": "Geography",
+    "difficulty": "Easy",
+    "word": "DESERT",
+    "hint": "A very dry region with little rain and few plants.",
+    "sentence": "Camels are well adapted to life in the hot, dry _____.",
+    "options": [
+      "DESERT",
+      "RAINFOREST",
+      "GLACIER",
+      "HARBOR"
+    ],
+    "explanation": "A desert receives very little rainfall."
+  },
+  {
+    "theme": "Geography",
+    "difficulty": "Medium",
+    "word": "VALLEY",
+    "hint": "A low area of land between hills or mountains, often with a river.",
+    "sentence": "The river flows through a green _____ between two mountain ranges.",
+    "options": [
+      "VALLEY",
+      "PLATEAU",
+      "SUMMIT",
+      "CLIFF"
+    ],
+    "explanation": "A valley is a low stretch of land between higher ground."
+  },
+  {
+    "theme": "Geography",
+    "difficulty": "Medium",
+    "word": "CANYON",
+    "hint": "A deep, narrow gorge with steep sides, often carved by a river.",
+    "sentence": "The river carved a deep _____ through the rock over millions of years.",
+    "options": [
+      "CANYON",
+      "DELTA",
+      "MEADOW",
+      "LAGOON"
+    ],
+    "explanation": "A canyon forms as a river cuts down through rock over time."
+  },
+  {
+    "theme": "Geography",
+    "difficulty": "Hard",
+    "word": "STRAIT",
+    "hint": "A narrow channel of water joining two larger seas.",
+    "sentence": "Ships squeeze through the narrow _____ that links the two seas.",
+    "options": [
+      "STRAIT",
+      "DELTA",
+      "PLATEAU",
+      "TUNDRA"
+    ],
+    "explanation": "A strait is a narrow waterway connecting two larger bodies of water."
+  },
+  {
+    "theme": "Geography",
+    "difficulty": "Hard",
+    "word": "LAGOON",
+    "hint": "A shallow body of water separated from the sea by a sandbar or coral reef.",
+    "sentence": "Tourists swam in the calm _____ sheltered by a coral reef.",
+    "options": [
+      "LAGOON",
+      "GLACIER",
+      "CANYON",
+      "PRAIRIE"
+    ],
+    "explanation": "A lagoon is shallow water partly cut off from the open sea."
+  },
+  {
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "word": "MONKEY",
+    "hint": "A clever climbing animal with a long tail that lives in trees.",
+    "sentence": "The _____ swung from branch to branch and grabbed a banana.",
+    "options": [
+      "MONKEY",
+      "ELEPHANT",
+      "CROCODILE",
+      "GIRAFFE"
+    ],
+    "explanation": "Monkeys are agile tree-dwelling primates."
+  },
+  {
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "word": "RABBIT",
+    "hint": "A small furry animal with long ears that hops and eats carrots.",
+    "sentence": "The magician pulled a white _____ out of his hat.",
+    "options": [
+      "RABBIT",
+      "ELEPHANT",
+      "BADGER",
+      "PENGUIN"
+    ],
+    "explanation": "Rabbits are small hopping mammals with long ears."
+  },
+  {
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "word": "FALCON",
+    "hint": "A fast bird of prey used in the sport of hunting with trained birds.",
+    "sentence": "The _____ dived at incredible speed to catch its prey in mid-air.",
+    "options": [
+      "FALCON",
+      "PIGEON",
+      "SPARROW",
+      "OSTRICH"
+    ],
+    "explanation": "Falcons are fast birds of prey that hunt by diving."
+  },
+  {
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "word": "TURTLE",
+    "hint": "A reptile with a hard shell that it can retreat into.",
+    "sentence": "The _____ pulled its head and legs into its shell when it felt threatened.",
+    "options": [
+      "TURTLE",
+      "LIZARD",
+      "SPIDER",
+      "RABBIT"
+    ],
+    "explanation": "A turtle's shell protects it from predators."
+  },
+  {
+    "theme": "Animals",
+    "difficulty": "Hard",
+    "word": "MARMOT",
+    "hint": "A large burrowing squirrel that lives in mountains and hibernates.",
+    "sentence": "The _____ whistled a warning to the colony before diving into its burrow.",
+    "options": [
+      "MARMOT",
+      "GAZELLE",
+      "GIRAFFE",
+      "PELICAN"
+    ],
+    "explanation": "Marmots are ground squirrels that hibernate through winter."
+  },
+  {
+    "theme": "Animals",
+    "difficulty": "Hard",
+    "word": "OSPREY",
+    "hint": "A fish-eating bird of prey that plunges feet-first into water.",
+    "sentence": "The _____ hovered above the lake, then plunged feet-first to snatch a fish.",
+    "options": [
+      "OSPREY",
+      "PARROT",
+      "OSTRICH",
+      "PENGUIN"
+    ],
+    "explanation": "An osprey hunts fish by diving feet-first into the water."
+  },
+  {
+    "theme": "Mathematics",
+    "difficulty": "Easy",
+    "word": "NUMBER",
+    "hint": "A count or amount, such as 7 or 42.",
+    "sentence": "Seven is an odd _____ and so is nine.",
+    "options": [
+      "NUMBER",
+      "LETTER",
+      "SHAPE",
+      "ANGLE"
+    ],
+    "explanation": "A number expresses a quantity or count."
+  },
+  {
+    "theme": "Mathematics",
+    "difficulty": "Easy",
+    "word": "CIRCLE",
+    "hint": "A perfectly round shape where every point is the same distance from the center.",
+    "sentence": "A wheel has the shape of a _____.",
+    "options": [
+      "CIRCLE",
+      "SQUARE",
+      "TRIANGLE",
+      "RECTANGLE"
+    ],
+    "explanation": "Every point on a circle is equally far from its center."
+  },
+  {
+    "theme": "Mathematics",
+    "difficulty": "Medium",
+    "word": "RADIUS",
+    "hint": "The distance from the center of a circle to its edge.",
+    "sentence": "If the diameter of a circle is 10, its _____ is 5.",
+    "options": [
+      "RADIUS",
+      "AREA",
+      "ANGLE",
+      "CHORD"
+    ],
+    "explanation": "The radius is half the diameter."
+  },
+  {
+    "theme": "Mathematics",
+    "difficulty": "Medium",
+    "word": "VECTOR",
+    "hint": "A quantity that has both size and direction.",
+    "sentence": "Velocity is a _____ because it has both magnitude and direction.",
+    "options": [
+      "VECTOR",
+      "SCALAR",
+      "MATRIX",
+      "VARIABLE"
+    ],
+    "explanation": "A vector has magnitude and direction, unlike a scalar."
+  },
+  {
+    "theme": "Mathematics",
+    "difficulty": "Hard",
+    "word": "MATRIX",
+    "hint": "A rectangular grid of numbers arranged in rows and columns.",
+    "sentence": "The determinant of a square _____ is a single number calculated from its entries.",
+    "options": [
+      "MATRIX",
+      "FRACTION",
+      "EXPONENT",
+      "PERCENT"
+    ],
+    "explanation": "A matrix is a rectangular array of numbers used in linear algebra."
+  },
+  {
+    "theme": "Mathematics",
+    "difficulty": "Hard",
+    "word": "SCALAR",
+    "hint": "A quantity with size only, no direction, such as mass or temperature.",
+    "sentence": "Temperature is a _____ because it has magnitude but no direction.",
+    "options": [
+      "SCALAR",
+      "VECTOR",
+      "MATRIX",
+      "INTEGER"
+    ],
+    "explanation": "A scalar is described by a single number with no direction."
+  }
+]

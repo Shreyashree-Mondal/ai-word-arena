@@ -1,0 +1,3 @@
+# Only needed to REBUILD data/lexicon.tsv (the built files are already shipped)
+nltk
+wordfreq
